@@ -1,3 +1,7 @@
 Hello
 
+<<<<<<< HEAD
 asdaew
+=======
+bas peerawat
+>>>>>>> ba9829f38c1500ba874323bf01f298679e155781
